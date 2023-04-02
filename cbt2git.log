@@ -1,0 +1,10 @@
+2023-04-02 22:44:49.505447 - Initialized conversion of CBT219
+2023-04-02 22:44:49.561815 - Received CBT.V504.FILE219.PDS from FILE219.XMI 
+2023-04-02 22:44:49.564308 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:44:49.565611 - Found $$$INDEX.txt (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/$$$INDEX
+2023-04-02 22:44:49.566720 - Found @FILE219.txt (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/@FILE219
+2023-04-02 22:44:49.567727 - Found APFLOOK.rexx (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/APFLOOK
+2023-04-02 22:44:49.568811 - Found FORTLOOK.rexx (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/FORTLOOK
+2023-04-02 22:44:49.569783 - Found JESLOOK.rexx (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/JESLOOK
+2023-04-02 22:44:49.570759 - Found LNKLOOK.rexx (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/LNKLOOK
+2023-04-02 22:44:49.571758 - Found LPALOOK.rexx (text/plain) in CBT.V504.FILE219.PDS, moved to PDS/LPALOOK
